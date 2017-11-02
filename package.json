@@ -1,0 +1,19 @@
+{
+  "name": "pinericosas",
+  "version": "0.1.0",
+  "description": "Get a random \"piñericosa\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muZk/pinericosas.git"
+  },
+  "author": "Nicolás Gómez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muZk/pinericosas/issues"
+  },
+  "homepage": "https://github.com/muZk/pinericosas#readme"
+}
