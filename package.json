@@ -1,6 +1,6 @@
 {
   "name": "pinericosas",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Get a random \"piñericosa\"",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/muZk/pinericosas/issues"
   },
-  "homepage": "https://github.com/muZk/pinericosas#readme"
+  "homepage": "https://github.com/muZk/pinericosas#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
