@@ -1,6 +1,6 @@
 {
   "name": "pinericosas",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "Get a random \"piñericosa\"",
   "main": "index.js",
   "scripts": {
