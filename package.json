@@ -4,7 +4,8 @@
   "description": "Get a random \"piñericosa\"",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/muZk/pinericosas#readme",
   "dependencies": {
     "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "standard-version": "^4.2.0"
   }
 }
